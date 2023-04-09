@@ -1,0 +1,3 @@
+-Geo Koordinaten Schätzung
+->POIs in der Nähe aus Text herauslesen
+
